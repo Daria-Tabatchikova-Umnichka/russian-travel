@@ -2,10 +2,7 @@
   margin: 92px auto;
   max-width: calc(100% - 96px);
   min-height: 740px;
-  background-image: url(../../images/sprint-3-images/cover-trains.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+
 }
 
 @media screen and (max-width: 1279px) {

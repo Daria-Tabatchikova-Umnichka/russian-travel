@@ -1,4 +1,4 @@
-.place__text {
+.places__text {
   display: flex;
   flex-direction: column;
   grid-column-start: 2;
@@ -11,13 +11,13 @@
 
 
 @media screen and (max-width: 1023px) {
-  .place__text {
+  .places__text {
     gap: 25px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .place__text {
+  .places__text {
     margin: 0 auto;
     max-width: 288px;
   }
